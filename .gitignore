@@ -1,8 +1,22 @@
 *.pdf
+
 *.csv
+
 docs/
+
 myenv/
+
 venv/
+
 checkpoints/
+
 ML_Sourc_AI_School
+
 Machine Learning
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
