@@ -1,0 +1,113 @@
+| Method              | Meaning          |
+| ------------------- | ---------------- |
+| `pd.read_csv()`     | CSV file load    |
+| `pd.read_excel()`   | Excel load       |
+| `pd.read_json()`    | JSON load        |
+| `pd.read_parquet()` | Parquet load     |
+| `pd.read_sql()`     | SQL se data load |
+| `df.to_csv()`       | CSV me save      |
+| `df.to_excel()`     | Excel me save    |
+| `df.to_json()`      | JSON save        |
+| `df.to_parquet()`   | Parquet save     |
+| `df.to_sql()`       | SQL me save      |
+
+# Data Cleaning
+
+| Method                  | Meaning             |
+| ----------------------- | ------------------- |
+| `df.info()`             | Structure + dtype   |
+| `df.describe()`         | Statistical summary |
+| `df.isnull()`           | Missing check       |
+| `df.drop_duplicates()`  | Duplicate remove    |
+| `str.strip()`           | Space remove        |
+| `str.upper()/lower()`   | Case fix            |
+| `pd.to_numeric()`       | Type convert        |
+| `fillna()`              | Missing fill        |
+| `groupby().transform()` | Smart filling       |
+| `quantile()`            | Percentile          |
+| IQR method              | Outlier detect      |
+
+
+Data Manipulation
+
+| Method           | Meaning              |
+| ---------------- | -------------------- |
+| `df[...]`        | Filtering            |
+| `sort_values()`  | Sorting              |
+| `groupby()`      | Group split          |
+| `agg()`          | Multiple aggregation |
+| `value_counts()` | Frequency            |
+| `apply()`        | Custom logic         |
+| `lambda`         | Anonymous function   |
+| `merge()`        | Join tables          |
+| `concat()`       | Stack data           |
+| `join()`         | Index-based join     |
+
+
+Statistics
+
+| Method         | Meaning            |
+| -------------- | ------------------ |
+| `mean()`       | Average            |
+| `median()`     | Middle value       |
+| `mode()`       | Most frequent      |
+| `var()`        | Variance           |
+| `std()`        | Standard deviation |
+| `corr()`       | Correlation        |
+| `cov()`        | Covariance         |
+| `skew()`       | Distribution shape |
+| `pct_change()` | Growth rate        |
+
+
+Text Processing
+
+
+| Method           | Meaning       |
+| ---------------- | ------------- |
+| `str.lower()`    | Lowercase     |
+| `str.upper()`    | Uppercase     |
+| `str.strip()`    | Trim spaces   |
+| `str.replace()`  | Replace text  |
+| `str.contains()` | Word check    |
+| `str.extract()`  | Regex extract |
+| `str.split()`    | Split words   |
+| `str.len()`      | Length count  |
+
+
+Window Functions
+
+
+| Method              | Meaning              |
+| ------------------- | -------------------- |
+| `rolling(window=3)` | Fixed sliding window |
+| `expanding()`       | Growing window       |
+| `apply()`           | Custom window logic  |
+| `rolling().std()`   | Rolling volatility   |
+| `ewm(span=3)`       | EMA                  |
+
+
+
+
+EDA / Project
+
+| Concept             | Meaning                   |
+| ------------------- | ------------------------- |
+| EDA                 | Exploratory Data Analysis |
+| Correlation matrix  | Relationship overview     |
+| Feature engineering | New column create         |
+| Group summary       | Category comparison       |
+| Balanced data       | Equal class count         |
+
+
+CORE CONCEPTS (Very Important)
+
+
+| Concept             | Meaning           |
+| ------------------- | ----------------- |
+| Split-Apply-Combine | GroupBy logic     |
+| IQR                 | Outlier detection |
+| Lag feature         | Previous value    |
+| Moving Average      | Trend smooth      |
+| Imputation          | Missing fill      |
+| Aggregation         | Summary metric    |
+

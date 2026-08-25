@@ -1,0 +1,8 @@
+*.pdf
+*.csv
+docs/
+myenv/
+venv/
+checkpoints/
+ML_Sourc_AI_School
+Machine Learning

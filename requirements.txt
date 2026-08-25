@@ -1,0 +1,45 @@
+# python Libraries -----------------------------
+
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+bokeh
+scipy
+# Automatic EDA Libraries ----------------------
+
+autoviz
+ydata-profiling
+sweetviz
+dtale
+
+
+scikit-learn
+statsmodels
+ipykernel
+jupyter
+notebook
+ipywidgets
+statistics
+nltk
+datasets
+tokenizers
+huggingface_hub
+safetensors
+flask
+fastapi
+uvicorn
+gunicorn
+requests
+httpx
+streamlit
+
+
+# Algorithems --------------------
+xgboost
+lightgbm
+catboost
+tensorflow
+nltk
+

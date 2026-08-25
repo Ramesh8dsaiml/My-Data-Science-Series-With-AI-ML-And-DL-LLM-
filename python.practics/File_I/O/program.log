@@ -1,0 +1,16 @@
+ERROR:root:My file was not found division by zero
+DEBUG:root:Debug msg
+ERROR:root:Error msg
+ERROR:root:My file was not found division by zero
+DEBUG:root:Debugging
+INFO:root:Program running
+WARNING:root:Low memory
+ERROR:root:Something broke
+CRITICAL:root:System crash
+ERROR:root:Data is missing
+ERROR:root:Data is missing
+ERROR:root:Data is missing
+INFO:root:Model training started
+ERROR:root:File not found
+ERROR:root:File not found
+ERROR:root:File not found
