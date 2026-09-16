@@ -31,7 +31,8 @@ flask
 fastapi
 uvicorn
 gunicorn
-requests
+requestsversion
+
 httpx
 streamlit
 
@@ -43,3 +44,7 @@ catboost
 tensorflow
 nltk
 
+# Deep Learning Libraries --------------------
+tensorflow
+keras
+transformers
