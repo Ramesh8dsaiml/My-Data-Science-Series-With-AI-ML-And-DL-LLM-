@@ -1,50 +1,47 @@
 # python Libraries -----------------------------
-
 numpy
 pandas
 matplotlib
 seaborn
-plotly
-bokeh
-scipy
+
 # Automatic EDA Libraries ----------------------
 
-autoviz
-ydata-profiling
-sweetviz
-dtale
+# autoviz
+# ydata-profiling
+# sweetviz
+# dtale
 
 
-scikit-learn
-statsmodels
-ipykernel
-jupyter
-notebook
-ipywidgets
-statistics
-nltk
-datasets
-tokenizers
-huggingface_hub
-safetensors
-flask
-fastapi
-uvicorn
-gunicorn
-requestsversion
+# scikit-learn
+# statsmodels
+# ipykernel
+# jupyter
+# notebook
+# ipywidgets
+# statistics
+# nltk
+# datasets
+# tokenizers
+# huggingface_hub
+# safetensors
+# flask
+# fastapi
+# uvicorn
+# gunicorn
+# requestsversion
 
-httpx
-streamlit
+# httpx
+# streamlit
 
 
-# Algorithems --------------------
-xgboost
-lightgbm
-catboost
-tensorflow
-nltk
+# # Algorithems --------------------
+# xgboost
+# lightgbm
+# catboost
+# tensorflow
+# nltk
 
-# Deep Learning Libraries --------------------
-tensorflow
-keras
-transformers
+# # Deep Learning Libraries --------------------
+# tensorflow
+# keras
+# transformers
