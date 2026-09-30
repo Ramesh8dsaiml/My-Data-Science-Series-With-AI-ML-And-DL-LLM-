@@ -5,7 +5,8 @@ matplotlib
 seaborn
 plotly
 bokeh
-
+# save image 
+kaleido
 # Automatic EDA Libraries ----------------------
 
 # autoviz
