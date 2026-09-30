@@ -3,6 +3,8 @@ numpy
 pandas
 matplotlib
 seaborn
+plotly
+bokeh
 
 # Automatic EDA Libraries ----------------------
 
@@ -12,7 +14,7 @@ seaborn
 # dtale
 
 
-# scikit-learn
+scikit-learn
 # statsmodels
 # ipykernel
 # jupyter
