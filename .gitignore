@@ -4,6 +4,9 @@
 
 docs/
 
+
+# Ignore virtual environment directories
+
 myenv/
 
 venv/
@@ -20,3 +23,5 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+APIs-
